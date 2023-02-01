@@ -1,0 +1,5 @@
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Square Star Pattern\Square Star Pattern\Square Star Pattern\bin\Debug\Square Star Pattern.exe.config
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Square Star Pattern\Square Star Pattern\Square Star Pattern\bin\Debug\Square Star Pattern.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Square Star Pattern\Square Star Pattern\Square Star Pattern\bin\Debug\Square Star Pattern.pdb
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Square Star Pattern\Square Star Pattern\Square Star Pattern\obj\Debug\Square Star Pattern.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Square Star Pattern\Square Star Pattern\Square Star Pattern\obj\Debug\Square Star Pattern.pdb

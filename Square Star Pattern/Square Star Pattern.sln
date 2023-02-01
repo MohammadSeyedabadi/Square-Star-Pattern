@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square Star Pattern", "Square Star Pattern\Square Star Pattern.csproj", "{3040CE1F-0595-4ED9-ADCC-787BADDD89DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3040CE1F-0595-4ED9-ADCC-787BADDD89DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3040CE1F-0595-4ED9-ADCC-787BADDD89DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3040CE1F-0595-4ED9-ADCC-787BADDD89DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3040CE1F-0595-4ED9-ADCC-787BADDD89DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
